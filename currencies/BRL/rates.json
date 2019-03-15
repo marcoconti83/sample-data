@@ -1,0 +1,27 @@
+{
+    "results": {
+        "USD": 4.843, 
+        "IDR": 5.9, 
+        "AED": 7.927, 
+        "GBP": 6.866, 
+        "CAD": 4.066, 
+        "HUF": 1.957, 
+        "MYR": 0.958, 
+        "SAR": 2.47, 
+        "SEK": 3.456, 
+        "SGD": 8.901, 
+        "HKD": 4.901, 
+        "AUD": 8.315, 
+        "CHF": 8.08, 
+        "CNY": 0.396, 
+        "TRY": 1.258, 
+        "NZD": 8.949, 
+        "THB": 1.022, 
+        "EUR": 2.008, 
+        "RUB": 2.529, 
+        "INR": 9.896, 
+        "JPY": 0.111, 
+        "BRL": 1.0
+    }, 
+    "disclaimer": "The numbers are randomly generated"
+}

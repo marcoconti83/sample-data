@@ -1,0 +1,26 @@
+{
+    "results": [
+        "USD", 
+        "EUR", 
+        "CAD", 
+        "CHF", 
+        "GBP", 
+        "AUD", 
+        "INR", 
+        "JPY", 
+        "CNY", 
+        "SGD", 
+        "MYR", 
+        "NZD", 
+        "THB", 
+        "HUF", 
+        "AED", 
+        "HKD", 
+        "SEK", 
+        "IDR", 
+        "SAR", 
+        "BRL", 
+        "TRY", 
+        "RUB"
+    ]
+}

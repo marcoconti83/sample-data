@@ -1,2 +1,3 @@
-# sample-data
-Some sample data for tests
+# Sample data
+
+Some sample data to be used in tests
